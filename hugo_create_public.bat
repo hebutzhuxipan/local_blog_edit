@@ -1,0 +1,1 @@
+hugo --theme=hyde --baseUrl="https://hebutzhuxipan.github.io/" --buildDrafts
